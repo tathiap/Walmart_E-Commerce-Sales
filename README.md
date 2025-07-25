@@ -44,7 +44,7 @@ This project provides a **deep dive analysis of Walmart’s e-commerce customers
 ---
 
 ## **How to Run the Dashboard**
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/tathiap/Walmart-E---Commerce-Sales.git
    cd Walmart-E---Commerce-Sales
