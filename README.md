@@ -49,11 +49,9 @@ It enables business and data teams to:
 
 
 **Cohort & Retention Analysis**
-
 Cohort analysis grouped customers by their first purchase month and tracked retention/revenue over time.
 
-Findings
-
+Findings: 
 * Retention Heatmap: Strong Month-0 purchases followed by a steep drop in Month-1. Beyond Month-3, retention stabilizes at lower levels.
 * Revenue Heatmap: Revenue was front loaded in early months, with later months contributing materially less. Certain cohorts (likely promo driven) sustained stronger early retention.
 * Headline Metrics: Month-1 retention dropped sharply across all cohorts; Month-3 and Month-6 retention remained low, highlighting the challenge of long term engagement.
@@ -99,9 +97,8 @@ This project delivered a comprehensive analysis of Walmart’s e-commerce custom
 * Predictive Modeling identified high value customers with high accuracy, reinforced by Bayesian modeling’s uncertainty quantification.
 
 ***Overall takeaway***: By combining segmentation, experimentation, forecasting, and predictive analytics, Walmart can turn raw transactional data into strategic insights, enabling deeper personalization, smarter marketing investment, and stronger demand planning for sustained revenue growth.
-
-
 ---
+
 ## Tools & Tech
 - **Languages**: Python 
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, Prophet, PyMC  
@@ -110,6 +107,7 @@ This project delivered a comprehensive analysis of Walmart’s e-commerce custom
 - **Data**: Walmart e-commerce customer dataset (synthetic/simulated for analysis)  
 
 ---
+
 ## Key Insights
 - Customer retention **drops sharply after Month 1**, stabilizing at single-digit levels by Month 6 → early lifecycle engagement is the biggest growth opportunity.  
 - **Luxury Browsers** and **Power Shoppers** consistently show higher absolute spend, making them prime targets for future campaigns despite no global A/B uplift.  
@@ -117,6 +115,7 @@ This project delivered a comprehensive analysis of Walmart’s e-commerce custom
 - Logistic and Bayesian models identified **cart completion rate** and **purchase volume** as the strongest predictors of customer value.  
 
 ---
+
 ## **How to Run the Dashboard**
 Install dependencies:
  pip install -r requirements.txt
