@@ -6,7 +6,7 @@ This repository features a complete data analytics dashboard and deep-dive analy
 * **Customer Segmentation**
 * **Time Series Forecasting**
 * **Predictive Modeling**
-  into an interactive **Streamlit dashboard** and Jupyter based analysis.
+*  **Streamlit dashboard** and Jupyter based analysis.
 ---
 
 ## **Project 1: Walmart E-Commerce Dashboard**
