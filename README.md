@@ -57,14 +57,7 @@ Segmentation informed recommendations for targeted marketing strategies.
 ##  Predictive Modeling
 - **Logistic Regression** + Bayesian Inference for predicting high-value customers  
 - Evaluation: Accuracy, Precision, Recall, ROC-AUC  
-- Feature importance visualized interactively  
-
----
-## **How to Run the Dashboard**
-Clone the repository:
-   ```bash
-   git clone https://github.com/tathiap/Walmart-E---Commerce-Sales.git
-   cd Walmart-E---Commerce-Sales ``` 
+- Feature importance visualized interactively
 
 ---
 ## Tools & Tech
@@ -79,3 +72,10 @@ Clone the repository:
 * Repeat purchase rates decline sharply after Month 1 → retention is a major growth opportunity.  
 * High value customers skew younger with higher cart completion rates.  
 * Seasonal spikes in November/December drive significant revenue lift → promotions should focus there.  
+
+---
+## **How to Run the Dashboard**
+Clone the repository:
+   ```bash
+   git clone https://github.com/tathiap/Walmart-E---Commerce-Sales.git
+   cd Walmart-E---Commerce-Sales ``` 
