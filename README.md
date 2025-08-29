@@ -30,7 +30,7 @@ It enables business and data teams to:
 * Predictive Modeling: Identifies high spenders with Logistic Regression and Bayesian inference
 ---
 
-## **Project 2: Beyond the Checkout – What Drives Walmart Shoppers?**
+## **Project 2: Beyond the Checkout – What Drives Walmart Shoppers**
 
 **Objectives**
 * Segment customers into actionable personas for targeted marketing
